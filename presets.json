@@ -11,5 +11,18 @@
       "mt6897",
       "mt6895"
     ]
+  },
+  {
+    "id": "preset_2",
+    "title": "Original Configuration Restoration",
+    "info": "Best for chipsets: mt6989, mt6985, mt6983, mt6897, mt6895. This configuration restores the original settings in case unlocking Vulkan and enabling frame generation causes any issues.",
+    "url": "https://raw.githubusercontent.com/rdevz-ph/wuwa-configs/main/config_original.zip",
+    "chipsets": [
+      "mt6989",
+      "mt6985",
+      "mt6983",
+      "mt6897",
+      "mt6895"
+    ]
   }
 ]
