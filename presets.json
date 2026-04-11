@@ -1,0 +1,15 @@
+[
+  {
+    "id": "preset_1",
+    "title": "Unlocked Vulkan and Frame Generation",
+    "info": "Best for chipsets: mt6989, mt6985, mt6983, mt6897, mt6895. Unlocks Vulkan API and enables frame generation for improved gaming performance.",
+    "url": "https://raw.githubusercontent.com/rdevz-ph/wuwa-configs/main/config_vulkan_framegen.zip",
+    "chipsets": [
+      "mt6989",
+      "mt6985",
+      "mt6983",
+      "mt6897",
+      "mt6895"
+    ]
+  }
+]
