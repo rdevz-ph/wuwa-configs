@@ -1,16 +1,36 @@
-# WuWa Config Chipset Compatibility Template
-# Add supported chipset model codes or names below (one per line).
-# This file should be placed in the root of your configuration ZIP.
-# The extractor will verify if the device chipset matches any entry here.
-
+# High-end Dimensity
 mt6989
 mt6985
 mt6983
+
+# Mid-range Dimensity
 mt6897
 mt6895
+mt6885
+mt6873
 
-# Other examples (uncomment to use):
-# mt6897
-# sm8550
+# Low-end MediaTek
+mt6853
+mt6833
+mt6785
+mt6779
+mt6771
+mt6768
+mt6765
+mt6763
+mt6762
+mt6761
+
 # Snapdragon
-# Dimensity
+sm8550
+sm7225
+sm7150
+sm7125
+sm6375
+sm6350
+sm6225
+sm6150
+sm6125
+sm6115
+sm4350
+sm4250

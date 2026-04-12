@@ -1,0 +1,34 @@
+# MediaTek Low-End (Helio A / P Series)
+mt6761
+mt6762
+mt6763
+mt6765
+
+# MediaTek Mid-Low (Helio G Series)
+mt6768
+mt6771
+mt6779
+mt6785
+
+# MediaTek Dimensity (Entry to Mid)
+mt6833
+mt6853
+mt6873
+mt6885
+
+# Snapdragon 400 Series (Low-End)
+sm4250
+sm4350
+
+# Snapdragon 600 Series (Low-End to Mid)
+sm6115
+sm6125
+sm6150
+sm6225
+sm6350
+sm6375
+
+# Snapdragon 700 Series (Midrange)
+sm7125
+sm7150
+sm7225
