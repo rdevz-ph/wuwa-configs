@@ -32,6 +32,17 @@ An Android application designed to safely and easily extract configuration files
 3. **Check Compatibility**: The app will automatically detect your chipset and check it against the ZIP's requirements.
 4. **Extract**: Tap Extract Files. The app will handle the rest.
 
+## Frequently Asked Questions
+
+### Why was this tool created?
+Many players still rely on the traditional method of manually extracting configuration files and navigating through restricted system folders. This tool simplifies that process, eliminating the need for complex file manager setups or root access—making configuration changes safer and more accessible.
+
+### Is this app safe to use?
+Yes, the app itself is safe to use. However, while it is a third-party utility similar to Shizuku or ZArchiver, it functions strictly as a helper tool for extracting configuration files for Wuthering Waves. It belongs to the same category as companion apps like WuWa pity counters:
+
+> [!NOTE]
+> All operations are performed locally on your device. This tool does not interact with or modify the game's server-side processes, and it is **not a hacking or cheating tool**. Because it operates outside the official app ecosystem, some security software may flag it simply as an unknown third-party application. Use at your own discretion.
+
 ## Creating a Compatible ZIP
 
 To support the compatibility check, add a chipset.txt file to the root of your ZIP with supported model codes (e.g., mt6877 for Dimensity 900). 
