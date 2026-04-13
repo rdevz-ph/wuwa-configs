@@ -8,12 +8,17 @@ An Android application designed to safely and easily extract configuration files
 |:-----------:|:-------------------:|
 | ![Main Screen](./screenshots/Screenshot_1.jpg) | ![Extraction Progress](./screenshots/Screenshot_2.jpg) |
 
+## Video Tutorial
+
+![WuWa Config Extractor v1.2 Tutorial](./video_tutorial_v1.2.gif)
+
 ## Features
 
-- **Direct Extraction**: Extract ZIP configuration files directly to com.kurogame.wutheringwaves.global/files/UE4Game/Client/Client/Saved/Config/Android.
+- **Direct Extraction**: Extract ZIP **or select multiple `.ini` configuration files** to move directly to `com.kurogame.wutheringwaves.global/files/UE4Game/Client/Client/Saved/Config/Android`.
+- **Multi‑Select INI Files**: **Pick one or more `.ini` files at once from your storage for batch transfer.**
 - **Shizuku Integration**: Leverages Shizuku for root-less access to restricted system directories.
 - **Online Presets**: Download and apply pre-configured optimizations directly from the official repository (https://github.com/rdevz-ph/wuwa-configs).
-- **Chipset Compatibility Check**: Automatically verifies if a configuration ZIP (containing chipset.txt) is compatible with your device's hardware before extraction.
+- **Chipset Compatibility Check**: Automatically verifies if a configuration ZIP (containing `chipset.txt`) is compatible with your device's hardware before extraction.
 - **Detailed Logging**: Real-time feedback and logs for the extraction process.
 - **Overwrite Protection**: Option to overwrite existing files or skip them.
 
@@ -28,9 +33,10 @@ An Android application designed to safely and easily extract configuration files
 1. **Start Shizuku**: Ensure the Shizuku service is running via Wireless Debugging or ADB.
 2. **Select Config**:
    - Choose a preset from the Online Presets dropdown.
-   - OR tap Select ZIP File to pick a custom configuration from your storage.
-3. **Check Compatibility**: The app will automatically detect your chipset and check it against the ZIP's requirements.
-4. **Extract**: Tap Extract Files. The app will handle the rest.
+   - Tap **Select ZIP File** to pick a custom configuration from your storage.
+   - **Tap Select INI Files to pick one or more `.ini` files directly (multi‑select supported).**
+3. **Check Compatibility**: The app will automatically detect your chipset and check it against the ZIP's requirements **(only applicable when using a ZIP file)**.
+4. **Extract**: Tap **Extract Files**. The app will handle the rest.
 
 ## Frequently Asked Questions
 
@@ -45,7 +51,7 @@ Yes, the app itself is safe to use. However, while it is a third-party utility s
 
 ## Creating a Compatible ZIP
 
-To support the compatibility check, add a chipset.txt file to the root of your ZIP with supported model codes (e.g., mt6877 for Dimensity 900). 
+To support the compatibility check, add a `chipset.txt` file to the root of your ZIP with supported model codes (e.g., `mt6877` for Dimensity 900). 
 
 ## Disclaimer
 > [!WARNING]
