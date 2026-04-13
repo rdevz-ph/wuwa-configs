@@ -9,6 +9,7 @@ mt6768
 mt6771
 mt6779
 mt6785
+mt6789
 
 # MediaTek Dimensity (Entry to Mid)
 mt6833

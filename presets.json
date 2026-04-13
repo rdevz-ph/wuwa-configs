@@ -15,6 +15,7 @@
       "mt6853",
       "mt6833",
       "mt6785",
+      "mt6789",
       "mt6779",
       "mt6771",
       "mt6768",
@@ -52,7 +53,7 @@
   {
     "id": "preset_3",
     "title": "Potato (Low-End / Mid-Range) Optimization",
-    "info": "Optimized settings for lower-end MediaTek and Snapdragon chipsets. Improves performance and stability on devices with Helio A/P/G series, entry Dimensity, Snapdragon 400/600/700 series.",
+    "info": "Optimized settings for entry-level and mid-range MediaTek and Snapdragon chipsets. Enhances performance, stability, and efficiency on devices powered by Helio A/P/G series, entry-level Dimensity, and Snapdragon 400, 600, and 700 series.",
     "url": "https://raw.githubusercontent.com/rdevz-ph/wuwa-configs/main/config_potato.zip",
     "chipsets": [
       "mt6761",
@@ -63,6 +64,7 @@
       "mt6771",
       "mt6779",
       "mt6785",
+      "mt6789",
       "mt6833",
       "mt6853",
       "mt6873",
