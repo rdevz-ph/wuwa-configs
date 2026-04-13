@@ -33,15 +33,20 @@ An Android application designed to safely and easily extract configuration files
 1. **Start Shizuku**: Ensure the Shizuku service is running via Wireless Debugging or ADB.
 2. **Select Config**:
    - Choose a preset from the Online Presets dropdown.
-   - Tap **Select ZIP File** to pick a custom configuration from your storage.
-   - **Tap Select INI Files to pick one or more `.ini` files directly (multi‑select supported).**
+   - **Tap the single *Browse Files (ZIP or INI)* button** to pick either a ZIP file or one or more `.ini` files directly from your storage.
 3. **Check Compatibility**: The app will automatically detect your chipset and check it against the ZIP's requirements **(only applicable when using a ZIP file)**.
-4. **Extract**: Tap **Extract Files**. The app will handle the rest.
+4. **Extract**: Tap **Apply Configuration(.ini) or Extract and Apply(.zip)**. The app will handle the rest.
 
 ## Frequently Asked Questions
 
 ### Why was this tool created?
 Many players still rely on the traditional method of manually extracting configuration files and navigating through restricted system folders. This tool simplifies that process, eliminating the need for complex file manager setups or root access—making configuration changes safer and more accessible.
+
+### Where can I get configuration files?
+I recommend checking out this community-driven repository for optimized WuWa configs:  
+🔗 **[Arglax / Mobile-WuWa-Config](https://github.com/Arglax/Mobile-WuWa-Config)**
+
+It provides well-structured `.ini` files tailored for various mobile chipsets.
 
 ### Is this app safe to use?
 Yes, the app itself is safe to use. However, while it is a third-party utility similar to Shizuku or ZArchiver, it functions strictly as a helper tool for extracting configuration files for Wuthering Waves. It belongs to the same category as companion apps like WuWa pity counters:
