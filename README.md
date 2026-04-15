@@ -1,5 +1,9 @@
 # WuWa Config Extractor
 
+[![Downloads](https://my-release-badge-api.vercel.app/api/badge?owner=rdevz-ph&repo=wuwa-configs&mode=downloads&color=blue&v=2)](https://github.com/rdevz-ph/wuwa-configs/releases)
+[![Version](https://my-release-badge-api.vercel.app/api/badge?owner=rdevz-ph&repo=wuwa-configs&mode=version&color=brightgreen&v=2)](https://github.com/rdevz-ph/wuwa-configs/releases/latest)
+[![Release](https://my-release-badge-api.vercel.app/api/badge?owner=rdevz-ph&repo=wuwa-configs&mode=name&color=blue&v=2)](https://github.com/rdevz-ph/wuwa-configs/releases/latest)
+
 An Android application designed to safely and easily extract configuration files for Wuthering Waves into the restricted Android/data directory using Shizuku.
 
 ## Screenshots
