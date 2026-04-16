@@ -8,6 +8,7 @@ mt6985
 mt6983
 mt6897
 mt6895
+mt6899
 
 # Other examples (uncomment to use):
 # mt6897
