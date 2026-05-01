@@ -9,12 +9,12 @@ An Android application designed to safely and easily extract configuration files
 ## Screenshots
 
 | Main Screen | Extraction Progress |
-|:-----------:|:-------------------:|
+|:-----------:|:-----------:|
 | ![Main Screen](./screenshots/Screenshot_1.jpg) | ![Extraction Progress](./screenshots/Screenshot_2.jpg) |
 
 ## Video Tutorial
 
-![WuWa Config Extractor v1.2 Tutorial](./video_tutorial_v1.2.gif)
+![WuWa Config Extractor v1.3 Tutorial](./video_tutorial_v1.3.gif)
 
 ## Features
 
