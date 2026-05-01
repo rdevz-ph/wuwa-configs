@@ -21,7 +21,7 @@ An Android application designed to safely and easily extract configuration files
 - **Direct Extraction**: Extract ZIP **or select multiple `.ini` configuration files** to move directly to `com.kurogame.wutheringwaves.global/files/UE4Game/Client/Client/Saved/Config/Android`.
 - **Multi‑Select INI Files**: **Pick one or more `.ini` files at once from your storage for batch transfer.**
 - **Shizuku Integration**: Leverages Shizuku for root-less access to restricted system directories.
-- **Online Presets**: Download and apply pre-configured optimizations directly from the official repository (https://github.com/rdevz-ph/wuwa-configs).
+- **Online Presets**: Download and apply pre-configured optimizations directly from the official repository (https://github.com/rdevz-ph/wuwa-configs-mobile-app).
 - **Chipset Compatibility Check**: Automatically verifies if a configuration ZIP (containing `chipset.txt`) is compatible with your device's hardware before extraction.
 - **Detailed Logging**: Real-time feedback and logs for the extraction process.
 - **Overwrite Protection**: Option to overwrite existing files or skip them.
